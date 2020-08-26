@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\IoIIZm7LZI6NUsB_6DQTCucRkdOZavOfWzQN6JatDyg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\uy-WWTmCZPGArnvuafQgYmacQo2nstTDX2cV2XqGmfc=.hash",
       "Source": "C:\\Users\\waekdo\\Desktop\\ConditionalDivs\\ConditionalDivs\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\ConditionalDivs.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ConditionalDivs.dll.gz"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\59fG7IYSHZZcOolzbOxg1QGjznZk5hWLLTOE9RUJkPc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\EqhjtiPJwkjqKPSCNqwkM6naaYNpY_6TViVwvpOQk6M=.hash",
       "Source": "C:\\Users\\waekdo\\Desktop\\ConditionalDivs\\ConditionalDivs\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\ConditionalDivs.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ConditionalDivs.pdb.gz"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\j1feAMZ-RzYiVIvrBvkAJoqt1JvZEPXoKIM7bmsdY2s=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_rIm-7P98BEbbBv8T6Eepry-FjWHZqIIUzYdensWtMg=.hash",
       "Source": "C:\\Users\\waekdo\\Desktop\\ConditionalDivs\\ConditionalDivs\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }
