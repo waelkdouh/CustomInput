@@ -1,0 +1,27 @@
+﻿@page "/"
+<h3>Custom Input</h3>
+
+<EditForm Model=FormData>
+    <DataAnnotationsValidator />
+        
+    <MyTemplatedComponent TValue="string" 
+                          ValueExpression="@(() => FormData.Name)"
+                          MaxLength="6"
+                          For="@(() => FormData.Name)" 
+                          Id="383ed040-fd99-41ec-8e86-1742044ff457"
+                          FormGroupCssClass="wael"
+                          Label="someLabel" >
+    </MyTemplatedComponent>
+
+  
+    <input type="submit" value="Submit" class="btn btn-primary" />
+
+</EditForm>
+
+
+@code {
+    Person FormData = new Person();
+}
+
+
+

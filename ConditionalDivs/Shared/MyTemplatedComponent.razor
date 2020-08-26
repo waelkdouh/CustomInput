@@ -1,0 +1,60 @@
+﻿@typeparam TValue
+
+@inherits Microsoft.AspNetCore.Components.Forms.InputText
+
+@using System.Linq.Expressions
+
+@using Microsoft.AspNetCore.Components.Forms
+
+
+@if (Label != null)
+{
+
+    <div class="form-group @FormGroupCssClass">
+        <label for="@Id" class="font-weight-bold">@Label</label>
+        <input id="@Id"
+               type="text"
+               class="form-control @CssClass"
+               maxlength="@MaxLength.ToString()"
+               @attributes="@AdditionalAttributes"
+               @bind="CurrentValue"
+               @bind:event="BindEvent" />
+        @if (For != null)
+        {
+            <ValidationMessage For="@For" />
+        }
+    </div>
+}
+else
+{
+
+    <input id="@Id"
+                type="text"
+                class="form-control @CssClass"
+                maxlength="@MaxLength.ToString()"
+                @attributes="@AdditionalAttributes"
+                @bind="@CurrentValue"
+                @bind:event="@BindEvent" />
+
+}
+
+
+@code{
+    [Parameter] public EventCallback<string> OnChange { get; set; }
+
+    [Parameter] public int MaxLength { get; set; } = 100;
+
+    [Parameter] public string Label { get; set; } = null;
+
+    [Parameter] public Expression<Func<TValue>> For { get; set; } = null;
+
+    //[Parameter] public int Debounce { get; set; } = 300;
+
+    [Parameter] public string Id { get; set; } = Guid.NewGuid().ToString().Replace("-", "");
+
+    [Parameter] public string BindEvent { get; set; } = "oninput";
+
+    [Parameter] public string FormGroupCssClass { get; set; } = "";
+
+}
+
