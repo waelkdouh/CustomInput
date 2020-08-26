@@ -354,8 +354,8 @@ C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1
 C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\staticwebassets\ConditionalDivs.StaticWebAssets.xml
 C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\ConditionalDivs.dll
 C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\ConditionalDivs.pdb
-C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MyTemplatedComponent.razor.g.cs
-C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\Razor\Shared\MyTemplatedComponent.razor.g.cs
-C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\integrity\Bh6LaiwXMn_gmOh1pOj05rlZpOTomk_Gw46Wxgk66V0=.hash
-C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\integrity\ctm6XX0agU0dWaBonbGXDViDGIHt0fZFdUZTB_K3t_8=.hash
-C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\integrity\LfdHpov-O92HvYMcfvGmjIIgALL4wn1xBx7qSCP5nrA=.hash
+C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CustomInput.razor.g.cs
+C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\Razor\Shared\CustomInput.razor.g.cs
+C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\integrity\IoIIZm7LZI6NUsB_6DQTCucRkdOZavOfWzQN6JatDyg=.hash
+C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\integrity\59fG7IYSHZZcOolzbOxg1QGjznZk5hWLLTOE9RUJkPc=.hash
+C:\Users\waekdo\Desktop\ConditionalDivs\ConditionalDivs\obj\Debug\netstandard2.1\integrity\j1feAMZ-RzYiVIvrBvkAJoqt1JvZEPXoKIM7bmsdY2s=.hash
